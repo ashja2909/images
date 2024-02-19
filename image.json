@@ -1,60 +1,57 @@
 {
     "members":[
-        {
+        {   "id":0,
             "name":"vivek Raj Srivastava",
             "branch":"B Tech",
             "post":"Secratary",
-            "message":"My journey has been a testament to the belief that skills are not just assets but the very foundation upon which we build our dreams. Whether it is managing a team, leading a project, or anchoring an event, the essence of our success lies in our ability to bring our skills to life, to mold them in ways that not only achieve goals but also inspire and uplift those around us. Anchoring and public speaking have taught me the power of words and the magic of effective communication. It's not just about speaking; it's about connecting, engaging, and leaving an impact that resonates with your audience long after the event has concluded. I am proud of the skills I've developed, the challenges I've overcome, and the work I've accomplished. But more than anything, I am excited about the journey ahead—the opportunities to learn, to grow, and to contribute in even more meaningful ways.",
+            "message":"hello team so there is nothing to specail byb me .",
             "src":"https://github.com/256bitguy/images/blob/main/store/vivek.jpg?raw=true"
                 }, 
                 {
+                    "id":1,
             "name":"Kushagra Trivedi",
             "branch":"B Tech",
             "post":"Joint Secratary",
             "message":"hello team so there is nothing to specail byb me .",
-            "src":"https://github.com/ashja2909/images/blob/main/src/kushagra.jpg?raw=true"                
-                },
+            "src":"https://github.com/ashja2909/images/blob/main/src/kushagra.jpg?raw=true"                },
                  {
+                    "id":2,
             "name":"Sukadh Pandey",
             "branch":"Bsc Mathematics Hons",
             "post":"Volunteer head",
             "message":"Friends, fellow bookworms, gather round! Do you ever find yourself utterly swept away by a story,poem ? Carried into fantastical worlds or transported to the depths of human emotion through the magic of words? That's the power of literature, and here in our literary haven, we celebrate it in our literary club! Let's continue to embark on these shared journeys, to learn, to laugh, to cry, and to grow – together. Remember, within the pages of each book lies an inspiration waiting to be discovered. Let's open them wide, share our discoveries, and fuel the fire of our collective passion for stories,poem and many more !",
-            "src":"https://github.com/ashja2909/images/blob/main/src/sukadh%20.jpg?raw=true"               
-                 }, 
-        {
+            "src":"https://github.com/ashja2909/images/blob/main/src/sukadh%20.jpg?raw=true"                }, 
+            {
+                "id":3,
             "name":"Aditya Shukla ",
             "branch":"BBA 1st ",
             "post":"Team Member",
             "message":"A central construct within the positive psychology Literature is life satisfaction . Being part of Literary club i found that these competitions , games are designed in such a way that individual not only increases and boost  their self -confidence, vocal or writing skills, moreover of that it ensures that our audience not just love it but feel its fun and enjoyment.our team however emphasize moreover on satisfaction, interest of audience , maintaining a true healthy environment.from giving priority to contestants and providing them a stage to showcase their talent.Our Literary club has done alot of job for all of you , Its my promise to you that by joining Literary club you will surely became interesting and confident person in real- life , you will able to  find a hidden gem  in yourself which is veiled from last so many years in you , join us be more participative and enthusiastic .",
             "src":"https://github.com/ashja2909/images/blob/main/src/aditya.jpg?raw=true"
-                }, 
-        {
+                }, {
+                    "id":4,
             "name":"AYUSH KUMAR SHARMA",
             "branch":"School of basic science and technology",
             "post":"Secratary",
             "message":"Hello friends and Esteemed teachers. Guys are you ever find the happiness , loneliness and creativity in one place if not then the litreray club, yes this club seriously included and the mixture of all the treasure of life I found happiness, loneliness (sayari , sharing feelings like that) , creativity too are included in this amazing club . And all the members of this group is too friendly and supportive I am lucky and glad to be a part of this amazing club.!! Thank you!!",
             "src":"https://github.com/ashja2909/images/blob/main/src/ayush.jpg"
-               }, 
-        {
+               }, {"id":5,
             "name":"Devansh Sharma",
             "branch":"Bca 2nd year",
             "post":"Joint Secratary",
             "message":"In the pages of books, you discover worlds unexplored, characters waiting to be embraced, and ideas yearning to unfold. Embrace the magic of storytelling, for in literature, you find not only entertainment but also profound insights into the human experience. Let the written word be your constant companion, a source of inspiration, solace, and endless exploration. In the vast landscape of literature, there's a treasure trove of wisdom and joy awaiting your eager minds. Happy reading!",
-            "src":"https://github.com/ashja2909/images/blob/main/src/devansh.jpg?raw=true"                
-        },  
-        {
+            "src":"https://github.com/ashja2909/images/blob/main/src/devansh.jpg?raw=true"                },  
+            {"id":6,
             "name":"Akhilesh Kumar",
             "branch":"Bca 2nd year",
             "post":"Joint Secratary",
             "message":"In the pages of books, you discover worlds unexplored, characters waiting to be embraced, and ideas yearning to unfold. Embrace the magic of storytelling, for in literature, you find not only entertainment but also profound insights into the human experience. Let the written word be your constant companion, a source of inspiration, solace, and endless exploration. In the vast landscape of literature, there's a treasure trove of wisdom and joy awaiting your eager minds. Happy reading!",
-            "src":"https://github.com/ashja2909/images/blob/main/src/akhilesh.jpg?raw=true"                
-        }, 
-                {
+            "src":"https://github.com/ashja2909/images/blob/main/src/akhilesh.jpg?raw=true"                }, 
+                {"id":7,
             "name":"shouyma mishra",
             "branch":"BJAMC",
             "post":"Organising lead",
             "message":"My journey has been a testament to the belief that skills are not just assets but the very foundation upon which we build our dreams. Whether it is managing a team, leading a project, or anchoring an event, the essence of our success lies in our ability to bring our skills to life, to mold them in ways that not only achieve goals but also inspire and uplift those around us. Anchoring and public speaking have taught me the power of words and the magic of effective communication. It's not just about speaking; it's about connecting, engaging, and leaving an impact that resonates with your audience long after the event has concluded. I am proud of the skills I've developed, the challenges I've overcome, and the work I've accomplished. But more than anything, I am excited about the journey ahead—the opportunities to learn, to grow, and to contribute in even more meaningful ways.",
-            "src":"https://github.com/ashja2909/images/blob/main/src/smya.jpg"               
-                }
+            "src":"https://github.com/ashja2909/images/blob/main/src/smya.jpg"                }
     ]
 }
